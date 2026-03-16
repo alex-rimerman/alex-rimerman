@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that sounds interesting!
 - 📫 How to reach me, email: alex.rimerman@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play college baseball.
+- ⚡ Fun fact: I played college baseball.
 
 <!---
 alex-rimerman/alex-rimerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
